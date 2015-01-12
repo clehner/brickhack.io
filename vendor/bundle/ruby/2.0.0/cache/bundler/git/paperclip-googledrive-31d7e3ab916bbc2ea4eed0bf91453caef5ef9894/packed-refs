@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+afc9915b774a4ede727e5598b9cfd15be6338854 refs/heads/fix-file-deletion
+afc9915b774a4ede727e5598b9cfd15be6338854 refs/heads/master
+ef113158e6e5b27f9f28917327c68a143e7236ab refs/heads/readme-spelling
